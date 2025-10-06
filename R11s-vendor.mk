@@ -22,6 +22,14 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/R11s/proprietary/vendor/etc/acdbdata/17021/Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/17021/Speaker_cal.acdb \
     vendor/oppo/R11s/proprietary/vendor/etc/qdcm_calib_data_oppo17011samsung_sofeg01_s_1080p_cmd_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_oppo17011samsung_sofeg01_s_1080p_cmd_mode_dsi_panel.xml \
     vendor/oppo/R11s/proprietary/vendor/etc/qdcm_calib_data_oppo17021samsung_sofeg01_s_1080p_cmd_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_oppo17021samsung_sofeg01_s_1080p_cmd_mode_dsi_panel.xml \
+    vendor/oppo/R11s/proprietary/vendor/firmware/a512_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.b00 \
+    vendor/oppo/R11s/proprietary/vendor/firmware/a512_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.b01 \
+    vendor/oppo/R11s/proprietary/vendor/firmware/a512_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.b02 \
+    vendor/oppo/R11s/proprietary/vendor/firmware/a512_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.elf \
+    vendor/oppo/R11s/proprietary/vendor/firmware/a512_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.mdt \
+    vendor/oppo/R11s/proprietary/vendor/firmware/a530_pfp.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_pfp.fw \
+    vendor/oppo/R11s/proprietary/vendor/firmware/a530_pm4.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_pm4.fw \
+    vendor/oppo/R11s/proprietary/vendor/firmware/a540_gpmu.fw2:$(TARGET_COPY_OUT_VENDOR)/firmware/a540_gpmu.fw2 \
     vendor/oppo/R11s/proprietary/vendor/firmware/tp/17011/17011_FW_S3508_SYNAPTICS.img:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/17011/17011_FW_S3508_SYNAPTICS.img \
     vendor/oppo/R11s/proprietary/vendor/firmware/tp/17011/17011_Limit_data.img:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/17011/17011_Limit_data.img \
     vendor/oppo/R11s/proprietary/vendor/firmware/tp/17021/17021_FW_S3508_SYNAPTICS.img:$(TARGET_COPY_OUT_VENDOR)/firmware/tp/17021/17021_FW_S3508_SYNAPTICS.img \
